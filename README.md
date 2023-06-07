@@ -66,13 +66,13 @@ This app is licensed under the [MIT License](LICENSE).
 
 ## References
 
-https://firebase.google.com/docs/storage/android/create-reference?authuser=0
-https://subscription.packtpub.com/book/mobile/9781788624718/1/ch01lvl1sec12/reading-and-writing-torealtime-database
-https://www.c-sharpcorner.com/article/insert-data-into-the-firebase-database-in-android-apps2/
+1) https://firebase.google.com/docs/storage/android/create-reference?authuser=0
+2) https://subscription.packtpub.com/book/mobile/9781788624718/1/ch01lvl1sec12/reading-and-writing-torealtime-database
+3) https://www.c-sharpcorner.com/article/insert-data-into-the-firebase-database-in-android-apps2/
 
-[Android Developers. (2023). Spinner. Retrieved May 31, 2023](https://developer.android.com/reference/android/widget/Spinner)
-[Stack Overflow. (n.d.). How to get the selected item from a Spinner? Retrieved May 31, 2023](https://stackoverflow.com/questions/13377361/how-to-get-the-selected-item-from-spinner)
-[Vogella GmbH. (2023). Android DatePicker and TimePicker. Retrieved May 31, 2023](http://www.vogella.com/tutorials/AndroidDatePicker/article.html)
-[Android Developers. (2023). EditText. Retrieved May 31, 2023](https://developer.android.com/reference/android/widget/EditText)
-[Android Developers. (2023). Button. Retrieved May 31, 2023](https://developer.android.com/reference/android/widget/Button)
-[Smith, J. (2023). Android Developers: ImageView. Retrieved May 31, 2023](https://developer.android.com/reference/android/widget/ImageView.html)
+4) [Android Developers. (2023). Spinner. Retrieved May 31, 2023](https://developer.android.com/reference/android/widget/Spinner)
+5) [Stack Overflow. (n.d.). How to get the selected item from a Spinner? Retrieved May 31, 2023](https://stackoverflow.com/questions/13377361/how-to-get-the-selected-item-from-spinner)
+6) [Vogella GmbH. (2023). Android DatePicker and TimePicker. Retrieved May 31, 2023](http://www.vogella.com/tutorials/AndroidDatePicker/article.html)
+7) [Android Developers. (2023). EditText. Retrieved May 31, 2023](https://developer.android.com/reference/android/widget/EditText)
+8) [Android Developers. (2023). Button. Retrieved May 31, 2023](https://developer.android.com/reference/android/widget/Button)
+9) [Smith, J. (2023). Android Developers: ImageView. Retrieved May 31, 2023](https://developer.android.com/reference/android/widget/ImageView.html)
