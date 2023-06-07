@@ -1,5 +1,7 @@
 # Timesheet App
-
+---
+## NOTE: Project is found under the master branch!!
+---
 This is a prototype for a simple timesheet app that allows users to track their daily work hours and categorize their timesheet entries. The app provides various features to enhance user experience and productivity.
 
 ## Table of Contents
