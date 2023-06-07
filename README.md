@@ -62,7 +62,7 @@ After logging in, users can navigate through the app using the intuitive user in
 **Uwais Jadwat(Group Leader)**, Abdullah Essack, Yusuf Ismail, Yuvin Padayachee
 
 ## Demo Video
-[google.com](VIDEO)
+[youtube.com](VIDEO)
 
 ## Bugs
 1. TimeSheet entries do not store in Firebase Realtime database.
