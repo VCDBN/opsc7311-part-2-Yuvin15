@@ -7,7 +7,7 @@ This is a simple timesheet app that allows users to track their daily work hours
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Video](# demo-video)
+- [Video](#demo-video)
 - [License](#license)
 
 ## Getting Started
