@@ -75,6 +75,14 @@ This app is licensed under the [MIT License](LICENSE).
 GeeksforGeeks. (n.d.). Android RecyclerView in Kotlin. Retrieved June 7, 2023, from https://www.geeksforgeeks.org/android-recyclerview-in-kotlin/
 
 ### Uwais
+Stack Overflow. (2012). How to prevent going back to the previous activity? Retrieved June 7, 2023, from 
+https://stackoverflow.com/questions/8631095/how-to-prevent-going-back-to-the-previous-activity
+
+Learn to Droid. (n.d.). How to Create a Hyperlink using Android TextView. Retrieved June 7, 2023, from
+https://learntodroid.com/how-to-create-a-hyperlink-using-android-textview/
+
+Learn to Droid. (n.d.). How to Switch Between Activities in Android. Retrieved June 7, 2023, from 
+https://learntodroid.com/how-to-switch-between-activities-in-android/
 
 ### Yuvin
 Firebase. (2023). Create a Reference - Cloud Storage for Android, from 
