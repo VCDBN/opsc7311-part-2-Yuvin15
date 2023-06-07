@@ -1,6 +1,6 @@
 # Timesheet App
 
-This is a simple timesheet app that allows users to track their daily work hours and categorize their timesheet entries. The app provides various features to enhance user experience and productivity.
+This is a prototype for a simple timesheet app that allows users to track their daily work hours and categorize their timesheet entries. The app provides various features to enhance user experience and productivity.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -8,6 +8,7 @@ This is a simple timesheet app that allows users to track their daily work hours
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Video](#demo-video)
+- [Bugs](#Bugs)
 - [License](#license)
 
 ## Getting Started
@@ -60,6 +61,10 @@ After logging in, users can navigate through the app using the intuitive user in
 
 ## Demo Video
 [google.com](VIDEO)
+
+## Bugs
+1. TimeSheet entries do not store in Firebase Realtime database.
+2. Picture does not pull from Firebase Storage
 
 ## License
 This app is licensed under the [MIT License](LICENSE).
