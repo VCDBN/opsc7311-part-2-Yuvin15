@@ -72,6 +72,7 @@ This app is licensed under the [MIT License](LICENSE).
 ## References
 
 ### Abdullah
+GeeksforGeeks. (n.d.). Android RecyclerView in Kotlin. Retrieved June 7, 2023, from https://www.geeksforgeeks.org/android-recyclerview-in-kotlin/
 
 ### Uwais
 
