@@ -59,7 +59,7 @@ After logging in, users can navigate through the app using the intuitive user in
 **Uwais Jadwat(Group Leader)**, Abdullah Essack, Yusuf Ismail, Yuvin Padayachee
 
 ## Demo Video
-[google.com]
+[google.com](VIDEO)
 
 ## License
 This app is licensed under the [MIT License](LICENSE).
