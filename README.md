@@ -21,7 +21,9 @@ The timesheet app offers the following features:
 
 1. **User Authentication**: Users can log in to the app using their username and password.
 
-2. **Category Creation**: Users can create categories to organize their timesheet entries. Each timesheet entry must belong to a specific category.
+2. **User Registration**: Users can create new prefiles with a unique username.
+
+3. **Category Creation**: Users can create categories to organize their timesheet entries. Each timesheet entry must belong to a specific category.
 
 3. **Timesheet Entry Creation**: Users can create timesheet entries by providing the following details:
    - Date
@@ -45,7 +47,7 @@ After logging in, users can navigate through the app using the intuitive user in
 
 2. **Category Management**: Create and manage categories to organize your timesheet entries effectively.
 
-3. **Timesheet Entry Creation**: Add new timesheet entries by specifying the date, start and end times, description, and category. Optionally, attach relevant photographs.
+3. **Timesheet Entry Creation**: Add new timesheet entries by specifying the date, start and end times, description, and category. Optionally, attach relevant photographs to a specific category.
 
 4. **Daily Goal Settings**: Set your desired minimum and maximum daily working hours.
 
@@ -54,7 +56,10 @@ After logging in, users can navigate through the app using the intuitive user in
 6. **Category Summary**: Check the total number of hours spent on each category within a specified period.
 
 ## Contributing
-Abdullah Essack, **Uwais Jadwat**, Yusuf Ismail, Yuvin Padayachee
+**Uwais Jadwat(Group Leader)**, Abdullah Essack, Yusuf Ismail, Yuvin Padayachee
+
+## Demo Video
+[google.com]
 
 ## License
 This app is licensed under the [MIT License](LICENSE).
@@ -62,4 +67,6 @@ This app is licensed under the [MIT License](LICENSE).
 ## References
 ```
 https://firebase.google.com/docs/storage/android/create-reference?authuser=0
+https://subscription.packtpub.com/book/mobile/9781788624718/1/ch01lvl1sec12/reading-and-writing-torealtime-database
+https://www.c-sharpcorner.com/article/insert-data-into-the-firebase-database-in-android-apps2/
 ```
